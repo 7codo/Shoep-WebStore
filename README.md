@@ -1,6 +1,6 @@
 ## Some Problems with Chakra UI
 
-- Responsive font size doesn't work on textStyles when custom theme [ChakraUI]
+- Responsive font size doesn't work on textStyles where custom theme [ChakraUI]
 - FontSize doesn't work in textStyles also in layerStyles? 🥲
 - Loading is very slowely in dev mode
 - Function components cannot be given refs **Toast Component**.
